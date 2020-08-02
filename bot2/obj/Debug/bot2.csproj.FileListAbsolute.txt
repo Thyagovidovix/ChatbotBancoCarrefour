@@ -1,0 +1,13 @@
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\bin\Debug\bot2.exe
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\bin\Debug\bot2.pdb
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\bin\Debug\Telegram.Bot.dll
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\bin\Debug\Telegram.Bot.xml
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\obj\Debug\bot2.csprojAssemblyReference.cache
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\obj\Debug\bot2.Properties.Resources.resources
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\obj\Debug\bot2.csproj.GenerateResource.cache
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\obj\Debug\bot2.csproj.CoreCompileInputs.cache
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\obj\Debug\bot2.csproj.CopyComplete
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\obj\Debug\bot2.exe
+C:\Users\THYAGO VIDOVIX\bot2\bot2\bot2\obj\Debug\bot2.pdb
